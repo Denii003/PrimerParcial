@@ -1,0 +1,645 @@
+[
+    {
+        "nombre": "KELMED",
+        "ciudad": "Ciudad de México",
+        "país": "México",
+        "productos": [
+            "Jeringas",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.kelmed.com.mx/"
+    },
+    {
+        "nombre": "Dimar",
+        "ciudad": "Ciudad de México",
+        "país": "México",
+        "productos": [
+            "Jeringas",
+            "Agujas",
+            "Catéteres",
+            "Guantes médicos",
+            "Mascarillas"
+        ],
+        "sitio_web": "https://dimar.com.mx/"
+    },
+    {
+        "nombre": "Materiales Médicos Rozam",
+        "ciudad": "Ciudad de México",
+        "país": "México",
+        "productos": [
+            "Jeringas",
+            "Agujas",
+            "Guantes médicos",
+            "Vendas",
+            "Mascarillas"
+        ],
+        "sitio_web": "https://www.materialesmedicos.com.mx/"
+    },
+    {
+        "nombre": "Global Medical Supplies",
+        "ciudad": "Toronto",
+        "país": "Canadá",
+        "productos": [
+            "Jeringas",
+            "Catéteres",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.globalmedsupplies.ca/"
+    },
+    {
+        "nombre": "HealthPro Distributors",
+        "ciudad": "Sídney",
+        "país": "Australia",
+        "productos": [
+            "Agujas",
+            "Jeringas",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.healthprodistributors.com.au/"
+    },
+    {
+        "nombre": "EuroMedics",
+        "ciudad": "Berlín",
+        "país": "Alemania",
+        "productos": [
+            "Jeringas",
+            "Catéteres",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.euromedics.de/"
+    },
+    {
+        "nombre": "Asia Medical Distribution",
+        "ciudad": "Singapur",
+        "país": "Singapur",
+        "productos": [
+            "Agujas",
+            "Catéteres",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.asiamedicaldistribution.sg/"
+    },
+    {
+        "nombre": "MediEquip Supplies",
+        "ciudad": "Ciudad del Cabo",
+        "país": "Sudáfrica",
+        "productos": [
+            "Catéteres",
+            "Jeringas",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.mediequipsupplies.co.za/"
+    },
+    {
+        "nombre": "KELMED",
+        "ciudad": "Ciudad de México",
+        "país": "México",
+        "productos": [
+            "Jeringas",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.kelmed.com.mx/"
+    },
+    {
+        "nombre": "Dimar",
+        "ciudad": "Ciudad de México",
+        "país": "México",
+        "productos": [
+            "Jeringas",
+            "Agujas",
+            "Catéteres",
+            "Guantes médicos",
+            "Mascarillas"
+        ],
+        "sitio_web": "https://dimar.com.mx/"
+    },
+    {
+        "nombre": "Materiales Médicos Rozam",
+        "ciudad": "Ciudad de México",
+        "país": "México",
+        "productos": [
+            "Jeringas",
+            "Agujas",
+            "Guantes médicos",
+            "Vendas",
+            "Mascarillas"
+        ],
+        "sitio_web": "https://www.materialesmedicos.com.mx/"
+    },
+    {
+        "nombre": "Global Medical Supplies",
+        "ciudad": "Toronto",
+        "país": "Canadá",
+        "productos": [
+            "Jeringas",
+            "Catéteres",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.globalmedsupplies.ca/"
+    },
+    {
+        "nombre": "HealthPro Distributors",
+        "ciudad": "Sídney",
+        "país": "Australia",
+        "productos": [
+            "Agujas",
+            "Jeringas",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.healthprodistributors.com.au/"
+    },
+    {
+        "nombre": "EuroMedics",
+        "ciudad": "Berlín",
+        "país": "Alemania",
+        "productos": [
+            "Jeringas",
+            "Catéteres",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.euromedics.de/"
+    },
+    {
+        "nombre": "Asia Medical Distribution",
+        "ciudad": "Singapur",
+        "país": "Singapur",
+        "productos": [
+            "Agujas",
+            "Catéteres",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.asiamedicaldistribution.sg/"
+    },
+    {
+        "nombre": "MediEquip Supplies",
+        "ciudad": "Ciudad del Cabo",
+        "país": "Sudáfrica",
+        "productos": [
+            "Catéteres",
+            "Jeringas",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.mediequipsupplies.co.za/"
+    },
+    {
+        "nombre": "KELMED",
+        "ciudad": "Ciudad de México",
+        "país": "México",
+        "productos": [
+            "Jeringas",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.kelmed.com.mx/"
+    },
+    {
+        "nombre": "Dimar",
+        "ciudad": "Ciudad de México",
+        "país": "México",
+        "productos": [
+            "Jeringas",
+            "Agujas",
+            "Catéteres",
+            "Guantes médicos",
+            "Mascarillas"
+        ],
+        "sitio_web": "https://dimar.com.mx/"
+    },
+    {
+        "nombre": "Materiales Médicos Rozam",
+        "ciudad": "Ciudad de México",
+        "país": "México",
+        "productos": [
+            "Jeringas",
+            "Agujas",
+            "Guantes médicos",
+            "Vendas",
+            "Mascarillas"
+        ],
+        "sitio_web": "https://www.materialesmedicos.com.mx/"
+    },
+    {
+        "nombre": "Global Medical Supplies",
+        "ciudad": "Toronto",
+        "país": "Canadá",
+        "productos": [
+            "Jeringas",
+            "Catéteres",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.globalmedsupplies.ca/"
+    },
+    {
+        "nombre": "HealthPro Distributors",
+        "ciudad": "Sídney",
+        "país": "Australia",
+        "productos": [
+            "Agujas",
+            "Jeringas",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.healthprodistributors.com.au/"
+    },
+    {
+        "nombre": "EuroMedics",
+        "ciudad": "Berlín",
+        "país": "Alemania",
+        "productos": [
+            "Jeringas",
+            "Catéteres",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.euromedics.de/"
+    },
+    {
+        "nombre": "Asia Medical Distribution",
+        "ciudad": "Singapur",
+        "país": "Singapur",
+        "productos": [
+            "Agujas",
+            "Catéteres",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.asiamedicaldistribution.sg/"
+    },
+    {
+        "nombre": "MediEquip Supplies",
+        "ciudad": "Ciudad del Cabo",
+        "país": "Sudáfrica",
+        "productos": [
+            "Catéteres",
+            "Jeringas",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.mediequipsupplies.co.za/"
+    },
+    {
+        "nombre": "KELMED",
+        "ciudad": "Ciudad de México",
+        "país": "México",
+        "productos": [
+            "Jeringas",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.kelmed.com.mx/"
+    },
+    {
+        "nombre": "Dimar",
+        "ciudad": "Ciudad de México",
+        "país": "México",
+        "productos": [
+            "Jeringas",
+            "Agujas",
+            "Catéteres",
+            "Guantes médicos",
+            "Mascarillas"
+        ],
+        "sitio_web": "https://dimar.com.mx/"
+    },
+    {
+        "nombre": "Materiales Médicos Rozam",
+        "ciudad": "Ciudad de México",
+        "país": "México",
+        "productos": [
+            "Jeringas",
+            "Agujas",
+            "Guantes médicos",
+            "Vendas",
+            "Mascarillas"
+        ],
+        "sitio_web": "https://www.materialesmedicos.com.mx/"
+    },
+    {
+        "nombre": "Global Medical Supplies",
+        "ciudad": "Toronto",
+        "país": "Canadá",
+        "productos": [
+            "Jeringas",
+            "Catéteres",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.globalmedsupplies.ca/"
+    },
+    {
+        "nombre": "HealthPro Distributors",
+        "ciudad": "Sídney",
+        "país": "Australia",
+        "productos": [
+            "Agujas",
+            "Jeringas",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.healthprodistributors.com.au/"
+    },
+    {
+        "nombre": "EuroMedics",
+        "ciudad": "Berlín",
+        "país": "Alemania",
+        "productos": [
+            "Jeringas",
+            "Catéteres",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.euromedics.de/"
+    },
+    {
+        "nombre": "Asia Medical Distribution",
+        "ciudad": "Singapur",
+        "país": "Singapur",
+        "productos": [
+            "Agujas",
+            "Catéteres",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.asiamedicaldistribution.sg/"
+    },
+    {
+        "nombre": "MediEquip Supplies",
+        "ciudad": "Ciudad del Cabo",
+        "país": "Sudáfrica",
+        "productos": [
+            "Catéteres",
+            "Jeringas",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.mediequipsupplies.co.za/"
+    },
+    {
+        "nombre": "KELMED",
+        "ciudad": "Ciudad de México",
+        "país": "México",
+        "productos": [
+            "Jeringas",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.kelmed.com.mx/"
+    },
+    {
+        "nombre": "Dimar",
+        "ciudad": "Ciudad de México",
+        "país": "México",
+        "productos": [
+            "Jeringas",
+            "Agujas",
+            "Catéteres",
+            "Guantes médicos",
+            "Mascarillas"
+        ],
+        "sitio_web": "https://dimar.com.mx/"
+    },
+    {
+        "nombre": "Materiales Médicos Rozam",
+        "ciudad": "Ciudad de México",
+        "país": "México",
+        "productos": [
+            "Jeringas",
+            "Agujas",
+            "Guantes médicos",
+            "Vendas",
+            "Mascarillas"
+        ],
+        "sitio_web": "https://www.materialesmedicos.com.mx/"
+    },
+    {
+        "nombre": "Global Medical Supplies",
+        "ciudad": "Toronto",
+        "país": "Canadá",
+        "productos": [
+            "Jeringas",
+            "Catéteres",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.globalmedsupplies.ca/"
+    },
+    {
+        "nombre": "HealthPro Distributors",
+        "ciudad": "Sídney",
+        "país": "Australia",
+        "productos": [
+            "Agujas",
+            "Jeringas",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.healthprodistributors.com.au/"
+    },
+    {
+        "nombre": "EuroMedics",
+        "ciudad": "Berlín",
+        "país": "Alemania",
+        "productos": [
+            "Jeringas",
+            "Catéteres",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.euromedics.de/"
+    },
+    {
+        "nombre": "Asia Medical Distribution",
+        "ciudad": "Singapur",
+        "país": "Singapur",
+        "productos": [
+            "Agujas",
+            "Catéteres",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.asiamedicaldistribution.sg/"
+    },
+    {
+        "nombre": "MediEquip Supplies",
+        "ciudad": "Ciudad del Cabo",
+        "país": "Sudáfrica",
+        "productos": [
+            "Catéteres",
+            "Jeringas",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.mediequipsupplies.co.za/"
+    },
+    {
+        "nombre": "KELMED",
+        "ciudad": "Ciudad de México",
+        "país": "México",
+        "productos": [
+            "Jeringas",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.kelmed.com.mx/"
+    },
+    {
+        "nombre": "Dimar",
+        "ciudad": "Ciudad de México",
+        "país": "México",
+        "productos": [
+            "Jeringas",
+            "Agujas",
+            "Catéteres",
+            "Guantes médicos",
+            "Mascarillas"
+        ],
+        "sitio_web": "https://dimar.com.mx/"
+    },
+    {
+        "nombre": "Materiales Médicos Rozam",
+        "ciudad": "Ciudad de México",
+        "país": "México",
+        "productos": [
+            "Jeringas",
+            "Agujas",
+            "Guantes médicos",
+            "Vendas",
+            "Mascarillas"
+        ],
+        "sitio_web": "https://www.materialesmedicos.com.mx/"
+    },
+    {
+        "nombre": "Global Medical Supplies",
+        "ciudad": "Toronto",
+        "país": "Canadá",
+        "productos": [
+            "Jeringas",
+            "Catéteres",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.globalmedsupplies.ca/"
+    },
+    {
+        "nombre": "HealthPro Distributors",
+        "ciudad": "Sídney",
+        "país": "Australia",
+        "productos": [
+            "Agujas",
+            "Jeringas",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.healthprodistributors.com.au/"
+    },
+    {
+        "nombre": "EuroMedics",
+        "ciudad": "Berlín",
+        "país": "Alemania",
+        "productos": [
+            "Jeringas",
+            "Catéteres",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.euromedics.de/"
+    },
+    {
+        "nombre": "Asia Medical Distribution",
+        "ciudad": "Singapur",
+        "país": "Singapur",
+        "productos": [
+            "Agujas",
+            "Catéteres",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.asiamedicaldistribution.sg/"
+    },
+    {
+        "nombre": "MediEquip Supplies",
+        "ciudad": "Ciudad del Cabo",
+        "país": "Sudáfrica",
+        "productos": [
+            "Catéteres",
+            "Jeringas",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.mediequipsupplies.co.za/"
+    },
+    {
+        "nombre": "KELMED",
+        "ciudad": "Ciudad de México",
+        "país": "México",
+        "productos": [
+            "Jeringas",
+            "Guantes médicos",
+            "Mascarillas",
+            "Vendas"
+        ],
+        "sitio_web": "https://www.kelmed.com.mx/"
+    },
+    {
+        "nombre": "Dimar",
+        "ciudad": "Ciudad de México",
+        "país": "México",
+        "productos": [
+            "Jeringas",
+            "Agujas",
+            "Catéteres",
+            "Guantes médicos",
+            "Mascarillas"
+        ],
+        "sitio_web": "https://dimar.com.mx/"
+    }
+]
