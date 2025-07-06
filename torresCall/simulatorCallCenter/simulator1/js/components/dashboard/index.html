@@ -1,0 +1,104 @@
+<link href="js/components/dashboard/style.css" rel="stylesheet">
+
+<div class="dashboard-container">
+    <div class="dashboard-header">
+        <h1>Call Center Dashboard</h1>
+        <div class="dashboard-controls">
+            <select id="timeRange" class="time-selector">
+                <option value="today">Today</option>
+                <option value="week">This Week</option>
+                <option value="month">This Month</option>
+            </select>
+            <div class="last-update">
+                Last Update: <span id="label-last-update">--:--:--</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="kpi-grid">
+        <div class="kpi" data-component="agents">
+            <div class="kpi-icon" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+                <i class="fas fa-users"></i>
+            </div>
+            <div class="kpi-content">
+                <div class="kpi-number">999</div>
+                <div class="kpi-label">Active Agents</div>
+            </div>
+        </div>
+
+        <div class="kpi" data-component="calls">
+            <div class="kpi-icon" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">
+                <i class="fas fa-phone"></i>
+            </div>
+            <div class="kpi-content">
+                <div class="kpi-number">999</div>
+                <div class="kpi-label">Active Calls</div>
+            </div>
+        </div>
+
+        <div class="kpi" data-component="reports">
+            <div class="kpi-icon" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
+                <i class="fas fa-phone-alt"></i>
+            </div>
+            <div class="kpi-content">
+                <div class="kpi-number">999</div>
+                <div class="kpi-label">Total Calls</div>
+            </div>
+        </div>
+
+        <div class="kpi" data-component="analytics">
+            <div class="kpi-icon" style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);">
+                <i class="fas fa-clock"></i>
+            </div>
+            <div class="kpi-content">
+                <div class="kpi-number">0:00:00</div>
+                <div class="kpi-label">Average Handle Time</div>
+            </div>
+        </div>
+
+        <div class="kpi" data-component="queue">
+            <div class="kpi-icon" style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%);">
+                <i class="fas fa-hourglass-half"></i>
+            </div>
+            <div class="kpi-content">
+                <div class="kpi-number">0:00:00</div>
+                <div class="kpi-label">Wait Time</div>
+            </div>
+        </div>
+
+        <div class="kpi" data-component="charts">
+            <div class="kpi-icon" style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);">
+                <i class="fas fa-list"></i>
+            </div>
+            <div class="kpi-content">
+                <div class="kpi-number">0:00:00</div>
+                <div class="kpi-label">Calls on Queue</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="charts-section">
+        <div class="chart-container">
+            <div class="chart-header">
+                <h3>Call Duration Distribution</h3>
+            </div>
+            <div id="chart-duration" class="chart"></div>
+        </div>
+
+        <div class="chart-container">
+            <div class="chart-header">
+                <h3>Hourly Call Volume</h3>
+            </div>
+            <div id="chart-hour" class="chart"></div>
+        </div>
+    </div>
+
+    <div class="dashboard-actions">
+        <button id="button-start" class="btn btn-success">
+            <i class="fas fa-play"></i> Start Monitoring
+        </button>
+        <button id="button-stop" class="btn btn-danger">
+            <i class="fas fa-stop"></i> Stop Monitoring
+        </button>
+    </div>
+</div>

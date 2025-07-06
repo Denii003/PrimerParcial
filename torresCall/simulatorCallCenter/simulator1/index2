@@ -1,0 +1,21 @@
+<!DOCTYPE html lang="en">
+	<head>
+		<!--title-->
+        <title>Simulator</title>
+        <!--javascript-->
+        <script src="js/main.js" type="module"></script>
+        <script src="js/highcharts.js"></script>
+        <!--metadata-->
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta charset="utf-8"/>
+	</head>
+	<body>
+        <div style="position: relative; float:left; width: 100%;">
+            <button id="button-start">Start</button>
+            <button id="button-stop">Stop</button>
+            <label id="label-last-update"></label>
+        </div>
+        <div id="chart-duration" style="position: relative; float:left; width: calc(50% - 22px); height:400px; border:1px solid #333; margin:10px;"></div>
+        <div id="chart-hour" style="position: relative; float:left; width:calc(50% - 22px); height:400px; border:1px solid #333; margin:10px;"></div>
+    </body>
+</html>

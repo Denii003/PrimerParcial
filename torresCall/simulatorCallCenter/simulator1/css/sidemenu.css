@@ -1,0 +1,37 @@
+#side-menu{
+    position:relative;
+    float:left;
+    width:250px;
+    background: var(--sideMenuBackground);
+    height: calc(100vh - 40px);
+    display: flex;
+    align-items: center;
+    height: 54px;
+}
+.side-menu-option{
+  display: flex;
+  align-items: center;
+  height: 54px;
+}
+.side-menu-option:hover{
+  background: var(--sideMenuOptionHover);
+  cursor: pointer;
+}
+.side-menu-icon{
+    margin: 10px;
+    background: #777;
+    width: 32px;
+    height: 32px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.side-menu-icon i{
+  font-size: 14pt;
+  color: var(--text);
+}
+#side-menu-label{
+    font-size: 12pt;
+  color: var(--text);
+}

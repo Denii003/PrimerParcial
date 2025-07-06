@@ -1,0 +1,39 @@
+{
+  "options": [
+    {
+      "id": 1,
+      "text": "Home",
+      "icon": "home",
+      "color": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+      "component": "js/components/home"
+    },
+    {
+      "id": 2,
+      "text": "Dashboard",
+      "icon": "chart-bar",
+      "color": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+      "component": "js/components/dashboard"
+    },
+    {
+      "id": 3,
+      "text": "Map",
+      "icon": "map-marker-alt",
+      "color": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+      "component": "js/components/charts"
+    },
+    {
+      "id": 4,
+      "text": "Layout",
+      "icon": "th-large",
+      "color": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+      "component": "js/components/charts"
+    },
+    {
+      "id": 5,
+      "text": "Settings",
+      "icon": "cog",
+      "color": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+      "component": "js/components/charts"
+    }
+  ]
+}
